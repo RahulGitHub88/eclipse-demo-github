@@ -1,0 +1,4 @@
+https://developer.okta.com/blog/2019/03/28/test-java-spring-boot-junit5
+https://spring.io/guides/gs/testing-web/
+https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/
+https://howtodoinjava.com/spring-boot2/testing/spring-boot-2-junit-5/
